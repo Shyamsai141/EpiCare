@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EpiCare</string>
+    <string name="sorry" />
+    <string name="EpiCare" />
+    <string name="By_Team_63" />
+    <string name="Epicare">EpiCare</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Profile">Profile</string>
+    <string name="MedicalReport">Medical Report</string>
+    <string name="Home">Home</string>
+    <string name="logout">logout</string>
+    <string name="Settings">Settings</string>
+    <string name="Help">Help</string>
+
+</resources>
